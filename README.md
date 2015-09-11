@@ -1,3 +1,5 @@
+# This is meant to be a secure pgp implementation of P
+
 # <a href="http://unsetbit.com/p">P</a> is for peer-to-peer networking with browsers
 
 P is a small framework used to create browser-to-browser networks (as opposed to just a connection). With P, you can:
